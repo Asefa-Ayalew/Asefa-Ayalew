@@ -6,7 +6,7 @@ const resume = () => {
   return (
     <div className='px-6 py-2'>
       {/* education and experience */}
-      <div className="grid md:grid-cols-2 gap-6">
+      <div className="grid gap-6 md:grid-cols-2">
       <div >
         <div>
           <h5 className='my-3 text-2xl font-bold'>Education</h5>
@@ -47,7 +47,7 @@ const resume = () => {
       </div>
       <div>
         <h5 className="my-3 text-2xl font-bold">
-          Tools and Softwares
+          Tools and Softwaress
         </h5>
         <div className="my-2">
 
