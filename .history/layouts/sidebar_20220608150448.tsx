@@ -1,0 +1,19 @@
+import React from 'react'
+
+function Sidebar() {
+  return (
+    <>
+    <img 
+    src='celinedion.PNG'
+    alt='ase' />
+    <h3>
+        <span>Asefa </span>
+        Ayalew
+    </h3>
+    <p>Frontened web developer</p>
+    <p>download resume</p>
+    </>
+  )
+}
+
+export default Sidebar
